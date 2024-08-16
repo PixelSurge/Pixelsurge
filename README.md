@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me: via my email
+- ⚡ Fun fact: I use arch btw
